@@ -1,0 +1,18 @@
+Q4: What skills do you hope to improve during this course?
+
+Answer: Data manipulation, python, git
+Q3: What is the difference between merging and rebasing?
+
+Answer: merging merges all changes to show full history. Rebrasing moves the la$
+
+Q2: What field could data science be applied to? Give and Example and how it mi$
+
+Answer: Data science could be useful in sports like the nfl. NFL can use data t$
+
+
+
+Q1: Why might be consider using git?
+
+Answer: Great version Control system!
+
+
